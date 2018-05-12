@@ -1,0 +1,37 @@
+_repo: The-Building-of-a-BookVarious-Departments-of-Book-Making-and-Distributing_23754
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: De Vinne, Theodore Low
+    alias: Vinne, Theodore Low de
+    birthdate: 1828
+    deathdate: 1914
+    gutenberg_agent_id: '26015'
+    url: http://www.gutenberg.org/2009/agents/26015
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hitchcock, Frederick H. (Frederick Hills)
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '26014'
+    url: http://www.gutenberg.org/2009/agents/26014
+description: ''
+gutenberg_issued: '2007-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23754'
+  lccn: '06046354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book industries and trade'
+- !lcsh 'Books'
+- !lcc 'Z'
+title: "The Building of a Book\r\nA Series of Practical Articles Written by Experts\
+  \ in the Various Departments of Book Making and Distributing"
+url: http://www.gutenberg.org/ebooks/23754
